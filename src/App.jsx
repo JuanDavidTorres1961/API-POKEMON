@@ -12,7 +12,7 @@ import { TiArrowRightOutline , TiArrowLeftOutline } from "react-icons/ti";
 
 const App = () =>{
 
-    const [pokemonId , setPokemonId] = useState(60)
+    const [pokemonId , setPokemonId] = useState(0)
     const [pokemonEvolutions , setPokemonEvolutions] = useState ([])
     
 
